@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260525132948JISPMW</value>
+    <value>20260525133730N7RZEI</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260525132948J54OJ3</value>
+    <value>20260525133730VKSYR0</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -25,6 +25,10 @@
   <odeProperty>
     <key>pp_title</key>
     <value>EL GRAN CIRCO DE LAS MARIPOSAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto para cuarto de primaria</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -48,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779708084850</value>
+    <value>1779709036053</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
