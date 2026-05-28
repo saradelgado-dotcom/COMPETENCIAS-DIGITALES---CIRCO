@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605282028190YK19D</value>
+    <value>20260528212002AIBIJR</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260528202819PXTGOP</value>
+    <value>20260528212002MDR3N9</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779991713481</value>
+    <value>1779994859108</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -80,7 +80,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>exportSource</key>
@@ -1208,9 +1208,9 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mppt3vzd-198mncobw</odePageId>
-      <odeBlockId>block-1779960116531-zvwhd2ybk</odeBlockId>
+      <odeBlockId>block-1779995373901-enswisfw4</odeBlockId>
       <blockName>Créditos</blockName>
-      <iconName>objectives</iconName>
+      <iconName>activity</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1237,27 +1237,33 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-mppt3vzd-198mncobw</odePageId>
-          <odeBlockId>block-1779960116531-zvwhd2ybk</odeBlockId>
-          <odeIdeviceId>idevice-1779960116527-41517sye2</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Archivo descargable" data-text-a="Archivo descargable" data-text-b="Archivo descargable"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx" title="archivo descargable">archivo descargable</a></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779960116527-41517sye2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Archivo descargable\" data-text-a=\"Archivo descargable\" data-text-b=\"Archivo descargable\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx\" title=\"archivo descargable\">archivo descargable</a></p></div></div>","textFeedbackInput":"Archivo descargable","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx\" title=\"archivo descargable\">archivo descargable</a></p>"}]]></jsonProperties>
+          <odeBlockId>block-1779995373901-enswisfw4</odeBlockId>
+          <odeIdeviceId>idevice-1779995373896-i6hcr6f5a</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EL GRAN CIRCO DE LAS MARIPOSAS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto didáctico basado en el cuento “El Gran Circo de las Mariposas”, dirigido al alumnado de 4º de Educación Primaria. Este REA trabaja la comprensión lectora, la creatividad, la expresión oral y escrita, el trabajo cooperativo y el uso responsable de las herramientas digitales mediante actividades interactivas, recursos audiovisuales y tareas competenciales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sara Delgado Tirado, Maestra de Pedagogía Terapéutica</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
