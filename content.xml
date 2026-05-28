@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260527160705N9SXMZ</value>
+    <value>202605281131075QCVX0</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260527160705KY2NKD</value>
+    <value>20260528113107CCBT4I</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -28,15 +28,15 @@
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
-    <value>Proyecto dirigido a cuarto de primaria</value>
+    <value>Proyecto dirigido al alumnado de cuarto de primaria</value>
   </odeProperty>
   <odeProperty>
     <key>pp_author</key>
-    <value>Sara Delgado, maestra de Pedagogía Terapéutica</value>
+    <value>Sara Delgado Tirado, Maestra de Pedagogía Terapéutica</value>
   </odeProperty>
   <odeProperty>
     <key>pp_description</key>
-    <value>Proyecto que pretende trabajar la expresión escrita, la comprensión y la gestión emocional.</value>
+    <value>Proyecto didáctico basado en el cuento “El Gran Circo de las Mariposas”, dirigido al alumnado de 4º de Educación Primaria. Este REA trabaja la comprensión lectora, la creatividad, la expresión oral y escrita, el trabajo cooperativo y el uso responsable de las herramientas digitales mediante actividades interactivas, recursos audiovisuales y tareas competenciales.</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779890112039</value>
+    <value>1779959685301</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdi-ajwaqt74x</odePageId>
+  <odePageId>page-mpp9ug07-l25g21389</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Proyecto El Gran Circo de las Mariposas</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdi-ajwaqt74x</odePageId>
+      <odePageId>page-mpp9ug07-l25g21389</odePageId>
       <odeBlockId>block-1779032278070-1jhuz249v</odeBlockId>
       <blockName>El Proyecto</blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdi-ajwaqt74x</odePageId>
+          <odePageId>page-mpp9ug07-l25g21389</odePageId>
           <odeBlockId>block-1779032278070-1jhuz249v</odeBlockId>
           <odeIdeviceId>idevice-1779032278068-jhw34hjze</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -189,8 +189,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdo-voulzkv8c</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0d-nwdz0gecd</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🎯 ¿Qué vamos a aprender?</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -225,7 +225,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdo-voulzkv8c</odePageId>
+      <odePageId>page-mpp9ug0d-nwdz0gecd</odePageId>
       <odeBlockId>block-1779032573271-8d45oqhex</odeBlockId>
       <blockName>Aprendemos...</blockName>
       <iconName></iconName>
@@ -254,7 +254,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdo-voulzkv8c</odePageId>
+          <odePageId>page-mpp9ug0d-nwdz0gecd</odePageId>
           <odeBlockId>block-1779032573271-8d45oqhex</odeBlockId>
           <odeIdeviceId>idevice-1779032573269-fv5jfwoh7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -286,8 +286,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdp-cjqrklv5z</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0f-st9k2rh3y</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🎭 Nuestro reto</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -322,7 +322,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdp-cjqrklv5z</odePageId>
+      <odePageId>page-mpp9ug0f-st9k2rh3y</odePageId>
       <odeBlockId>block-1779032815854-4y2xy839j</odeBlockId>
       <blockName>El producto final</blockName>
       <iconName></iconName>
@@ -351,7 +351,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdp-cjqrklv5z</odePageId>
+          <odePageId>page-mpp9ug0f-st9k2rh3y</odePageId>
           <odeBlockId>block-1779032815854-4y2xy839j</odeBlockId>
           <odeIdeviceId>idevice-1779032815852-rm2xquhhf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -382,8 +382,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdq-bjf5lorbc</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0h-yf6pq4sj6</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🗓️ Trabajamos paso a paso</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -418,7 +418,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdq-bjf5lorbc</odePageId>
+      <odePageId>page-mpp9ug0h-yf6pq4sj6</odePageId>
       <odeBlockId>block-1779032880630-3t8fjw3l0</odeBlockId>
       <blockName>Paso a paso</blockName>
       <iconName></iconName>
@@ -447,7 +447,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdq-bjf5lorbc</odePageId>
+          <odePageId>page-mpp9ug0h-yf6pq4sj6</odePageId>
           <odeBlockId>block-1779032880630-3t8fjw3l0</odeBlockId>
           <odeIdeviceId>idevice-1779032880628-k4phrhirg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -486,8 +486,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdr-pxfn2t8oj</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0j-rzrcw2swz</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>📚 Recursos para aprender</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -522,7 +522,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdr-pxfn2t8oj</odePageId>
+      <odePageId>page-mpp9ug0j-rzrcw2swz</odePageId>
       <odeBlockId>block-1779033084622-ktvhteik1</odeBlockId>
       <blockName>Recursos para el alumnado</blockName>
       <iconName></iconName>
@@ -551,7 +551,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdr-pxfn2t8oj</odePageId>
+          <odePageId>page-mpp9ug0j-rzrcw2swz</odePageId>
           <odeBlockId>block-1779033084622-ktvhteik1</odeBlockId>
           <odeIdeviceId>idevice-1779033084621-bz17nqp70</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -559,7 +559,7 @@
     <p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>
 <p>Pincha aquí: <a href="-recursos-para-aprender.html" title="Recursos">RECURSOS</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779033084621-bz17nqp70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>\n<p>Pincha aquí: <a href=\"exe-node:page-mpo4bwdr-pxfn2t8oj\" title=\"Recursos\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779033084621-bz17nqp70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>\n<p>Pincha aquí: <a href=\"exe-node:page-mpp9ug0j-rzrcw2swz\" title=\"Recursos\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -581,8 +581,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwds-hsdgjoh5u</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0l-vz95d6rg9</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🌐 Usamos internet de forma segura</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -617,7 +617,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwds-hsdgjoh5u</odePageId>
+      <odePageId>page-mpp9ug0l-vz95d6rg9</odePageId>
       <odeBlockId>block-1779033215880-ub7bdgncp</odeBlockId>
       <blockName>Navegamos seguros</blockName>
       <iconName></iconName>
@@ -646,7 +646,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwds-hsdgjoh5u</odePageId>
+          <odePageId>page-mpp9ug0l-vz95d6rg9</odePageId>
           <odeBlockId>block-1779033215880-ub7bdgncp</odeBlockId>
           <odeIdeviceId>idevice-1779033215878-0pnsm9rf0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -678,8 +678,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwds-cxjidr05j</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0n-7t2dlqqpm</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>📊 ¿Cómo vamos a evaluar?</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -714,7 +714,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwds-cxjidr05j</odePageId>
+      <odePageId>page-mpp9ug0n-7t2dlqqpm</odePageId>
       <odeBlockId>block-1779033402669-i3qodd1js</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -743,7 +743,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwds-cxjidr05j</odePageId>
+          <odePageId>page-mpp9ug0n-7t2dlqqpm</odePageId>
           <odeBlockId>block-1779033402669-i3qodd1js</odeBlockId>
           <odeIdeviceId>idevice-1779033402669-r9rp7gw12</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -782,8 +782,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdt-qbnhoqteh</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0q-10qktzbiw</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🎯 Piensa sobre tu trabajo</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -818,7 +818,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdt-qbnhoqteh</odePageId>
+      <odePageId>page-mpp9ug0q-10qktzbiw</odePageId>
       <odeBlockId>block-1779034239462-unhzoadco</odeBlockId>
       <blockName>Reflexión final</blockName>
       <iconName></iconName>
@@ -847,7 +847,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdt-qbnhoqteh</odePageId>
+          <odePageId>page-mpp9ug0q-10qktzbiw</odePageId>
           <odeBlockId>block-1779034239462-unhzoadco</odeBlockId>
           <odeIdeviceId>idevice-1779034239460-t3wcex8h3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -878,8 +878,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdv-miu8odhac</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0r-m40pxvi83</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>👩‍🏫 Guía didáctica</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -914,7 +914,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdv-miu8odhac</odePageId>
+      <odePageId>page-mpp9ug0r-m40pxvi83</odePageId>
       <odeBlockId>block-1779034320751-sdp878bir</odeBlockId>
       <blockName>Guía didáctica</blockName>
       <iconName></iconName>
@@ -943,7 +943,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdv-miu8odhac</odePageId>
+          <odePageId>page-mpp9ug0r-m40pxvi83</odePageId>
           <odeBlockId>block-1779034320751-sdp878bir</odeBlockId>
           <odeIdeviceId>idevice-1779034320749-sldekunr6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -981,8 +981,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdw-8adc7wfp8</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0t-6ja1hwior</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>🧩 Recursos para docentes</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1017,7 +1017,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdw-8adc7wfp8</odePageId>
+      <odePageId>page-mpp9ug0t-6ja1hwior</odePageId>
       <odeBlockId>block-1779034830061-6farjte3n</odeBlockId>
       <blockName>Recursos para docentes</blockName>
       <iconName></iconName>
@@ -1046,7 +1046,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdw-8adc7wfp8</odePageId>
+          <odePageId>page-mpp9ug0t-6ja1hwior</odePageId>
           <odeBlockId>block-1779034830061-6farjte3n</odeBlockId>
           <odeIdeviceId>idevice-1779034830060-c8nvtqprg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1077,8 +1077,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdw-unx1vn2rs</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
+  <odePageId>page-mpp9ug0w-fwi2i5vgr</odePageId>
+  <odeParentPageId>page-mpp9ug07-l25g21389</odeParentPageId>
   <pageName>Producto final</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1113,7 +1113,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdw-unx1vn2rs</odePageId>
+      <odePageId>page-mpp9ug0w-fwi2i5vgr</odePageId>
       <odeBlockId>block-1779434700646-3q8bd8i32</odeBlockId>
       <blockName>Producto final</blockName>
       <iconName></iconName>
@@ -1142,7 +1142,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdw-unx1vn2rs</odePageId>
+          <odePageId>page-mpp9ug0w-fwi2i5vgr</odePageId>
           <odeBlockId>block-1779434700646-3q8bd8i32</odeBlockId>
           <odeIdeviceId>idevice-1779434700641-kqj8c12z0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1171,109 +1171,21 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpo4bwdx-nrnsq5w8p</odePageId>
-  <odeParentPageId>page-mpo4bwdi-ajwaqt74x</odeParentPageId>
-  <pageName>©️ Créditos</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odePageId>page-1779959402286-dbx15objx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>©️ Créditos</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>©️ Créditos</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
+      <value>Créditos</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpo4bwdx-nrnsq5w8p</odePageId>
-      <odeBlockId>block-1779034972502-bzje1zw19</odeBlockId>
+      <odePageId>page-1779959402286-dbx15objx</odePageId>
+      <odeBlockId>block-1779960116531-zvwhd2ybk</odeBlockId>
       <blockName>Créditos</blockName>
-      <iconName>competencies</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mpo4bwdx-nrnsq5w8p</odePageId>
-          <odeBlockId>block-1779034972502-bzje1zw19</odeBlockId>
-          <odeIdeviceId>idevice-1779034972501-zm11yhi5l</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><em><strong>Créditos</strong></em></p>
-<p><br /><strong><em>Autora</em></strong><br />Sara Delgado Tirado</p>
-<p><strong><em>Proyecto</em></strong><br />El Gran Circo de las Mariposas</p>
-<p><strong><em>Nivel educativo</em></strong><br />4º de Educación Primaria</p>
-<p><em><strong>Descripción:</strong></em><br />Proyecto interdisciplinar diseñado para trabajar la comprensión lectora, la educación emocional, la creatividad y la competencia digital a través del cuento El Gran Circo de las Mariposas.</p>
-<p><strong><em>Licencia</em></strong><br /> CC BY-NC-SA 4.0</p>
-<p><strong><em>Recursos utilizados</em></strong><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet<br /></p>
-<p>Este proyecto ha sido creado con fines educativos.</p>
-<p></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779034972501-zm11yhi5l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Créditos</strong></em></p>\n<p><br /><strong><em>Autora</em></strong><br />Sara Delgado Tirado</p>\n<p><strong><em>Proyecto</em></strong><br />El Gran Circo de las Mariposas</p>\n<p><strong><em>Nivel educativo</em></strong><br />4º de Educación Primaria</p>\n<p><em><strong>Descripción:</strong></em><br />Proyecto interdisciplinar diseñado para trabajar la comprensión lectora, la educación emocional, la creatividad y la competencia digital a través del cuento El Gran Circo de las Mariposas.</p>\n<p><strong><em>Licencia</em></strong><br /> CC BY-NC-SA 4.0</p>\n<p><strong><em>Recursos utilizados</em></strong><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet<br /></p>\n<p>Este proyecto ha sido creado con fines educativos.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mpo4bwdx-nrnsq5w8p</odePageId>
-      <odeBlockId>block-1779350249233-nllvmvhin</odeBlockId>
-      <blockName>Archivo editable del proyecto</blockName>
       <iconName>objectives</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1300,29 +1212,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpo4bwdx-nrnsq5w8p</odePageId>
-          <odeBlockId>block-1779350249233-nllvmvhin</odeBlockId>
-          <odeIdeviceId>idevice-1779350249228-qygnp997f</odeIdeviceId>
+          <odePageId>page-1779959402286-dbx15objx</odePageId>
+          <odeBlockId>block-1779960116531-zvwhd2ybk</odeBlockId>
+          <odeIdeviceId>idevice-1779960116527-41517sye2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>El archivo editable del recurso en formato eXeLearning (.elp) está disponible para su descarga </p>
-<p><a href="{{context_path}}/content/resources/documento-sin-titulo (5).elpx" title="Descargar proyecto editable (.elpx) [elpx - 8672419 B]">Descargar proyecto editable (.elpx)</a><span class="exe-link-data file-size">(elpx - 8672419 <abbr title="Bytes">B</abbr>)</span></p>
+    <div class="exe-text-activity"><p><strong>AUTORÍA</strong><br />Sara Delgado Tirado</p>
+<p><strong>DESCRIPCIÓN</strong><br />Proyecto didáctico dirigido al alumnado de 4º de Educación Primaria basado en el cuento “El Gran Circo de las Mariposas”.</p>
+<p><strong>LICENCIA</strong><br />Creative Commons: Reconocimiento – No comercial – Compartir igual 4.0</p>
+<p><strong title="archivo descargable [elpx - 8672419 B]">RECURSOS UTILIZADOS</strong><span class="exe-link-data file-size">(elpx - 8672419 <abbr title="Bytes">B</abbr>)</span><br />Canva<br />Pixabay<br />Freepik<br />YouTube<br />Padlet</p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Archivo descargable" data-text-a="Archivo descargable" data-text-b="Archivo descargable"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><a href="{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx" title="archivo descargable">archivo descargable</a></p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350249228-qygnp997f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo editable del recurso en formato eXeLearning (.elp) está disponible para su descarga </p>\n<p><a href=\"{{context_path}}/content/resources/documento-sin-titulo (5).elpx\" title=\"Descargar proyecto editable (.elpx) [elpx - 8672419 B]\">Descargar proyecto editable (.elpx)</a><span class=\"exe-link-data file-size\">(elpx - 8672419 <abbr title=\"Bytes\">B</abbr>)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779960116527-41517sye2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>AUTORÍA</strong><br />Sara Delgado Tirado</p>\n<p><strong>DESCRIPCIÓN</strong><br />Proyecto didáctico dirigido al alumnado de 4º de Educación Primaria basado en el cuento “El Gran Circo de las Mariposas”.</p>\n<p><strong>LICENCIA</strong><br />Creative Commons: Reconocimiento – No comercial – Compartir igual 4.0</p>\n<p><strong title=\"archivo descargable [elpx - 8672419 B]\">RECURSOS UTILIZADOS</strong><span class=\"exe-link-data file-size\">(elpx - 8672419 <abbr title=\"Bytes\">B</abbr>)</span><br />Canva<br />Pixabay<br />Freepik<br />YouTube<br />Padlet</p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Archivo descargable\" data-text-a=\"Archivo descargable\" data-text-b=\"Archivo descargable\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><a href=\"{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx\" title=\"archivo descargable\">archivo descargable</a></p></div></div>","textFeedbackInput":"Archivo descargable","textFeedbackTextarea":"<p><a href=\"{{context_path}}/content/resources/documento-sin-titulo (5) (1).elpx\" title=\"archivo descargable\">archivo descargable</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
